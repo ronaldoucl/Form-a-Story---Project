@@ -1,4 +1,4 @@
-# fORM A STORY GAME
+# FORM A STORY GAME
 
 ## Project Description
 This project is an implementation of the classic "Mad Libs" game using HTML, CSS, and JavaScript. In this game, users provide words from different categories, such as nouns, verbs, and adverbs. These words are then inserted into a pre-defined story, creating fun and often surprising results.
